@@ -189,7 +189,7 @@ public class WikiTitleSort {
 		} else {
 			String userName = args[0];
 			String inputFileName = "./input.txt";
-			MP1 mp = new MP1(userName, inputFileName);
+			WikiTitleSort mp = new WikiTitleSort(userName, inputFileName);
 			String[] topItems = mp.process();
 			for (String item : topItems) {
 				System.out.println(item);
