@@ -1,2 +1,2 @@
 # WikiTitleSort
-#### Java Program that shows the top Wikipedia Titles based on word frequency
+#### Java Program that analyzes the top Wikipedia Titles based on word frequency
